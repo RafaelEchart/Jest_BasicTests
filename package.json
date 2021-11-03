@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelEchart/Jest-BasicTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelEchart/Jest-BasicTests/issues"
+  },
+  "homepage": "https://github.com/RafaelEchart/Jest-BasicTests#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
