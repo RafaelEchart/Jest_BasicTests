@@ -6,7 +6,7 @@ it('Check string length', ()=>{
 })
 
 it('Check string bigger than 10', ()=>{
-    const word = "HelloWorldAndMoon"
+    const word = "HelloWorldAndMoonaOK"
     expect(()=>stringLength(word)).toThrow(Error)
 })
 
